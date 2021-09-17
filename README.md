@@ -1,4 +1,18 @@
-Um Conversor de Moeda Dolar $ a Real $.
-
-Voce pode ver como funciona essa pagina clicando aqui:
-
+       ______________________________
+     / \                             \.
+    |   |       Um Conversor         |.
+     \_ |       _____________        |.
+       |                             |.
+       |        de Dolar ($)         |.
+       |                            |.
+       |        a Real (R$)         |.
+       |                            |.
+       |                            |.
+       |                            |.
+       |                            |.
+       |                            |.
+       |   HTML - CSS - JS          |.
+       |                            |.
+       |   _________________________|___
+       |  /                            /.
+       \_/dc__________________________/.
